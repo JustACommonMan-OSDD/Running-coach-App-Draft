@@ -25,7 +25,6 @@ Thumbs.db
 # ==========================================
 # 3. Secrets, Keys, and Environment Files
 # ==========================================
-.env
 .env.local
 .env.*.local
 *.env
