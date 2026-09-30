@@ -1,0 +1,50 @@
+# ==========================================
+# 1. OS Files (System Junk)
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# 2. Editor & IDE State
+# ==========================================
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# ==========================================
+# 3. Secrets, Keys, and Environment Files
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.env
+*.pem
+*.key
+*.cert
+*.secret
+credentials.json
+
+# ==========================================
+# 4. Build Output, Artifacts, & Dependencies
+# ==========================================
+dist/
+build/
+out/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+node_modules/
