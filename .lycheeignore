@@ -1,0 +1,7 @@
+# Links that cannot be checked mechanically. Each line needs a reason and a manual check date.
+# Keep this list as short as possible; never exclude external links as a blanket rule.
+
+# TODO(team): if the research board (Miro/Figma) returns 403 to the checker, add its exact URL here
+# with a comment such as:
+# The Miro board requires a browser session and returns 403 to the checker.
+# Verified manually in a browser on 2026-09-30.

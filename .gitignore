@@ -1,0 +1,35 @@
+# Editor and IDE state
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets: never commit these. Use a sanitized .env.example instead.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build output and caches
+dist/
+build/
+out/
+coverage/
+node_modules/
+.cache/
+*.log
+
+# Meeting recordings stay out of the repository (Moodle only)
+*.mp4
+*.mov
+*.mkv
+*.m4a
+*.mp3
+*.wav
