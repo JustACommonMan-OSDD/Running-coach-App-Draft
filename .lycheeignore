@@ -1,2 +1,5 @@
 # Links that cannot be checked mechanically. Each line needs a reason and a manual check date.
 # Keep this list as short as possible; never exclude external links as a blanket rule.
+
+# 2026-10-02: the link check timed out on this page in pull request 21. A direct request the same day returned the Hal Higdon novice half-marathon plan. Cited from reports/week-01/candidate-list.md.
+https://www\.halhigdon\.com/training-programs/half-marathon-training/novice-1-half-marathon/
