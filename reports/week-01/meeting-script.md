@@ -9,7 +9,7 @@ Our proposed direction is [VP-01](../../docs/research/value-proposition.md#vp-01
 
 We have not checked whether the customer's target runner is a beginner or an experienced runner, whether a phone-only product is acceptable, or whether a rule-based engine is acceptable rather than a machine-learning one.
 
-**This meeting has to settle:** who the target runner is, and whether explainable adaptation (`VP-01`) is the direction the customer will accept for the course.
+**This meeting has to settle:** who the target runner is, and whether explainable adaptation [VP-01](../../docs/research/value-proposition.md#vp-01-a-plan-that-shows-its-reasoning) is the direction the customer will accept for the course.
 A good answer lets us write the Week 2 work plan around one `VP-nn`.
 
 Questions marked ★ are the ones that would change the project most; ask them even if time runs short.
@@ -57,3 +57,41 @@ Ezekiel-Gadzama interviews, Sirjaey takes notes, Obetech1 observes and records w
 
 **"Do you want the app to work without a watch?" -> "Think of a runner you know who would use this. What do they run, how often, and what do they record it with?" (question 3)**
 
+## After the meeting: what we actually asked
+
+Added after the kickoff on 2 October 2026. The questions above are unchanged — they
+are the script we took in. This section records what happened to them.
+
+| # | Starred | Asked as written? | Outcome |
+| --- | --- | --- | --- |
+| 1 | ★ | Yes, at 00:45 | Answered at length. The whole product description came out of this one question. |
+| 2 | | No | — |
+| 3 | ★ | No | — |
+| 4 | | No | Answered anyway at 23:55 via an improvised question: beginner to intermediate. |
+| 5 | | No | — |
+| 6 | | No | — |
+| 7 | ★ | No | — |
+| 8 | | No | Answered anyway at 10:54: phone first, wearable optional. |
+| 9 | | No | Partly answered: no cloud processing (15:02), no health-document upload (11:34). Platform constraint came later (23:30). |
+| 10 | | No | — |
+| 11 | | No | Not asked, although [value-proposition.md](../../docs/research/value-proposition.md) lists the kickoff as where this assumption would be checked. |
+| 12 | | No | — |
+
+One of twelve questions was asked as written. Three more were answered without being
+asked. Two of the three starred questions were missed.
+
+Six questions were improvised in their place, in this order: live stats for a running
+partner (07:17), uploading health documents (09:53), comparable applications (13:42),
+goal setting and post-exercise meals (15:38), interface language (20:00), and
+availability outside Russia (22:25).
+
+### What to change for the next meeting
+
+The `Customer` opened by asking how we wanted to proceed, and we answered with an open
+question instead of presenting our research. Nothing from [gap-analysis.md](../../docs/research/gap-analysis.md) or
+[value-proposition.md](../../docs/research/value-proposition.md) was put to him, so nothing in it was confirmed or refuted
+directly — the divergence recorded in [meeting-script.md](meeting-script.md) had to be inferred from what
+he volunteered.
+
+Carry the three missed starred questions (3, 7, 10) and question 11 into the next
+meeting, and present [VP-01](../../docs/research/value-proposition.md#vp-01-a-plan-that-shows-its-reasoning) before asking anything.
