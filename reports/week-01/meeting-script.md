@@ -45,21 +45,53 @@ Questions marked ★ are the ones that would change the project most; ask them e
 
 ## Roles
 
-JustACommonMan-OSDD interviews, Sirjaey takes notes, Obetech1 observes and records what we did not ask and what the customer did not say, Ezekiel-Gadzama runs the recording and watches the time.
+Ezekiel-Gadzama interviews, Sirjaey takes notes, Obetech1 observes and records what we did not ask and what the customer did not say, JustACommonMan-OSDD  runs the recording and watches the time.
 
 ## Key improvements
 
 **"Would you use an app that explains why your plan changed?" -> "The last time an app or a plan changed a workout on you, what did you do: follow it, ignore it, or change it back? Why?" (question 7)**
 
-The original pitched our own idea and invited a polite yes.
-The rewrite asks about a past event, so the answer tells us whether a missing explanation actually changed behaviour (Mom Test rule 1: talk about their life, not our idea; rule 2: specifics in the past).
 
 **"Is adaptation important to you?" -> "When a run went worse than planned, what did you do with the next session, and who decided?" (question 6)**
 
-The original asks about an abstract property that everyone rates as important.
-The rewrite anchors it to a real bad run, so the answer shows the current workaround and whether the runner or a tool made the call (Mom Test rule 2).
 
 **"Do you want the app to work without a watch?" -> "Think of a runner you know who would use this. What do they run, how often, and what do they record it with?" (question 3)**
 
-The original is a closed preference question about a feature.
-The rewrite asks about a real person's setup, so the watch-or-phone answer comes out as a fact, not a wish; we kept a closed version (question 8) only as a constraint check.
+## After the meeting: what we actually asked
+
+Added after the kickoff on 2 October 2026. The questions above are unchanged — they
+are the script we took in. This section records what happened to them.
+
+| # | Starred | Asked as written? | Outcome |
+| --- | --- | --- | --- |
+| 1 | ★ | Yes, at 00:45 | Answered at length. The whole product description came out of this one question. |
+| 2 | | No | — |
+| 3 | ★ | No | — |
+| 4 | | No | Answered anyway at 23:55 via an improvised question: beginner to intermediate. |
+| 5 | | No | — |
+| 6 | | No | — |
+| 7 | ★ | No | — |
+| 8 | | No | Answered anyway at 10:54: phone first, wearable optional. |
+| 9 | | No | Partly answered: no cloud processing (15:02), no health-document upload (11:34). Platform constraint came later (23:30). |
+| 10 | | No | — |
+| 11 | | No | Not asked, although `value-proposition.md` lists the kickoff as where this assumption would be checked. |
+| 12 | | No | — |
+
+One of twelve questions was asked as written. Three more were answered without being
+asked. Two of the three starred questions were missed.
+
+Six questions were improvised in their place, in this order: live stats for a running
+partner (07:17), uploading health documents (09:53), comparable applications (13:42),
+goal setting and post-exercise meals (15:38), interface language (20:00), and
+availability outside Russia (22:25).
+
+### What to change for the next meeting
+
+The `Customer` opened by asking how we wanted to proceed, and we answered with an open
+question instead of presenting our research. Nothing from `gap-analysis.md` or
+`value-proposition.md` was put to him, so nothing in it was confirmed or refuted
+directly — the divergence recorded in `meeting-report.md` had to be inferred from what
+he volunteered.
+
+Carry the three missed starred questions (3, 7, 10) and question 11 into the next
+meeting, and present `VP-01` before asking anything.
