@@ -2,15 +2,18 @@
 
 ## Context
 
-Our problem-space sentence: a recreational runner training for a 5K to half-marathon race, often without a sports watch, needs a training plan that changes when their real runs differ from the plan and tells them why it changed, so they can trust it enough to keep following it.
+The 2 October kickoff changed the direction we took into the room. The customer asked for a voice coach during the run, for a beginner to intermediate runner, phone first. That is [VP-01](../../docs/research/value-proposition.md#vp-01-a-voice-coach-during-the-run). [VP-02](../../docs/research/value-proposition.md#vp-02-two-preset-sessions-after-the-voice-coach) is two preset sessions after that. The record is the [meeting report](meeting-report.md).
 
-We believe the strongest gap is that no alternative tells the runner why the plan changed ([GAP-01](../../docs/research/gap-analysis.md#gap-01-the-runner-is-not-told-why-the-plan-changed)), and that phone-only and walk/run runners get no adaptation from how their runs went ([GAP-02](../../docs/research/gap-analysis.md#gap-02-no-adaptation-from-how-a-phone-recorded-run-actually-went)).
-Our proposed direction is [VP-01](../../docs/research/value-proposition.md#vp-01-a-plan-that-shows-its-reasoning) first and [VP-02](../../docs/research/value-proposition.md#vp-02-adaptive-coaching-with-only-a-phone-including-walkrun) second, with a rule-based plan engine.
+The questions below are the script we took in, and they are unchanged.
 
-We have not checked whether the customer's target runner is a beginner or an experienced runner, whether a phone-only product is acceptable, or whether a rule-based engine is acceptable rather than a machine-learning one.
+Our problem-space sentence going in: a recreational runner training for a 5K to half-marathon race, often without a sports watch, needs a training plan that changes when their real runs differ from the plan and tells them why it changed, so they can trust it enough to keep following it.
 
-**This meeting has to settle:** who the target runner is, and whether explainable adaptation [VP-01](../../docs/research/value-proposition.md#vp-01-a-plan-that-shows-its-reasoning) is the direction the customer will accept for the course.
-A good answer lets us write the Week 2 work plan around one `VP-nn`.
+We believed the strongest gap was that no alternative tells the runner why the plan changed ([GAP-01](../../docs/research/gap-analysis.md#gap-01-the-runner-is-not-told-why-the-plan-changed)), and that phone-only and walk/run runners get no adaptation from how their runs went ([GAP-02](../../docs/research/gap-analysis.md#gap-02-no-adaptation-from-how-a-phone-recorded-run-actually-went)).
+We went in expecting a plan that explains its changes, then phone-only adaptation, from a rule-based engine. The kickoff did not confirm the first.
+
+Before the meeting we had not checked the target runner, whether phone-only was acceptable, or whether a rule-based engine was. The kickoff settled the first two. The engine question was not asked.
+
+**The meeting had to settle:** who the target runner is, and whether explainable adaptation was the direction the customer would accept. He described the voice coach instead.
 
 Questions marked ★ are the ones that would change the project most; ask them even if time runs short.
 
@@ -90,8 +93,8 @@ availability outside Russia (22:25).
 The `Customer` opened by asking how we wanted to proceed, and we answered with an open
 question instead of presenting our research. Nothing from [gap-analysis.md](../../docs/research/gap-analysis.md) or
 [value-proposition.md](../../docs/research/value-proposition.md) was put to him, so nothing in it was confirmed or refuted
-directly — the divergence recorded in [meeting-script.md](meeting-script.md) had to be inferred from what
+directly — the divergence recorded in the [meeting report](meeting-report.md) had to be inferred from what
 he volunteered.
 
 Carry the three missed starred questions (3, 7, 10) and question 11 into the next
-meeting, and present [VP-01](../../docs/research/value-proposition.md#vp-01-a-plan-that-shows-its-reasoning) before asking anything.
+meeting, and present [VP-01](../../docs/research/value-proposition.md#vp-01-a-voice-coach-during-the-run) before asking anything.
