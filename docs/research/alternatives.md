@@ -14,15 +14,15 @@ A view-only board with two screenshots per alternative is not linked. The observ
 We fixed these seven properties before evaluating any product.
 Each is written as a question a runner in the problem space would ask.
 
-| ID  | Property          | The question behind it                                                                                         |
-| --- | ----------------- | -------------------------------------------------------------------------------------------------------------- |
-| P1  | Plan adaptation   | When my run goes differently from the plan (missed, shorter, slower, faster), does the plan change, and what triggers it? |
-| P2  | Explainability    | When the plan changes, am I told why, in terms I can check?                                                    |
-| P3  | Input requirements | What must I own or record for the product to work: a specific watch, heart rate, phone GPS, or manual entry?   |
-| P4  | Onboarding        | What do I have to answer and do before my first planned workout?                                               |
-| P5  | Cost model        | What is free, what is paid, and what do I lose if I stop paying?                                               |
-| P6  | Data portability  | Can I take my runs and my plan somewhere else (FIT, GPX, CSV, API)?                                            |
-| P7  | Load and recovery | Does the product measure training load or fatigue, and does that measurement change the plan?                  |
+| ID | Property           | The question behind it                                                                                                    |
+| -- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| P1 | Plan adaptation    | When my run goes differently from the plan (missed, shorter, slower, faster), does the plan change, and what triggers it? |
+| P2 | Explainability     | When the plan changes, am I told why, in terms I can check?                                                               |
+| P3 | Input requirements | What must I own or record for the product to work: a specific watch, heart rate, phone GPS, or manual entry?              |
+| P4 | Onboarding         | What do I have to answer and do before my first planned workout?                                                          |
+| P5 | Cost model         | What is free, what is paid, and what do I lose if I stop paying?                                                          |
+| P6 | Data portability   | Can I take my runs and my plan somewhere else (FIT, GPX, CSV, API)?                                                       |
+| P7 | Load and recovery  | Does the product measure training load or fatigue, and does that measurement change the plan?                             |
 
 ## ALT-01
 
